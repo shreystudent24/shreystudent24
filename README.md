@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shrey Vardhan Dhiman</h1>
-<h3 align="center">I've learned basic DevOps and am currently learning Front-End Web Development, and will learn Machine Learning after this.</h3>
+<h3 align="center">Pre-Final Year Student at SRM Institute of Science and Technology.</h3>
 
 <p align="left"> <a href="https://twitter.com/shrey_v9" target="blank"><img src="https://img.shields.io/twitter/follow/shrey_v9?logo=twitter&style=for-the-badge" alt="shrey_v9" /></a> </p>
 
 - 🔭 I’m currently working on [NodeJS_Workshop](https://github.com/shreystudent24/NodeJS_Workshop)
 
-- 🌱 I’m currently learning **JavaScript, Dynamic Programming & Graphs**
-
-- 💬 Ask me about **Open Source, Data Structures and Algorithm, C++, Docker, YAML, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Front End Web Development**
 
 - 📫 Contact **sv7230@srmist.edu.in**
 
