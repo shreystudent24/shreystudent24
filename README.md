@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shrey Vardhan Dhiman</h1>
+<h1 align="center">Hi, I'm Shrey Vardhan Dhiman</h1>
 <h3 align="center">Pre-Final Year Student at SRM Institute of Science and Technology.</h3>
 
 <p align="left"> <a href="https://twitter.com/shrey_v9" target="blank"><img src="https://img.shields.io/twitter/follow/shrey_v9?logo=twitter&style=for-the-badge" alt="shrey_v9" /></a> </p>
