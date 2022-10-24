@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shrey_v9" target="blank"><img src="https://img.shields.io/twitter/follow/shrey_v9?logo=twitter&style=for-the-badge" alt="shrey_v9" /></a> </p>
 
-- 🔭 I’m currently working on [NodeJS_Workshop](https://github.com/shreystudent24/NodeJS_Workshop)
+- 🔭 I’m currently working on [Deepavali Mini Project](https://github.com/shreystudent24/Deepavali_2022)
 
 - 🌱 I’m currently learning **Front End Web Development**
 
