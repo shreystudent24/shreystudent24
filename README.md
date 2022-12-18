@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on [My Resume Website](https://github.com/shreystudent24/Resume_WebSite)
 
-- 🌱 I’m currently learning **Front End Web Development**
-- 💻 Will learn **Machine Learning & DevOps** next. 
+- 🌱 I’m currently learning **Full Stack Web Development & DevOps**
+- 💻 Will learn **Machine Learning** next. 
 
 - 📫 Contact **sv7230@srmist.edu.in**
 
