@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on [Major Project 1](https://github.com/shreystudent24/Music-Player)
 
 - 🌱 I’m currently learning **DevOps**
-- 💻 Will learn **Machine Learning** next. 
 
 - 📫 Contact **sv7230@srmist.edu.in**
 
