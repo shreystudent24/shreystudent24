@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shrey_v9" target="blank"><img src="https://img.shields.io/twitter/follow/shrey_v9?logo=twitter&style=for-the-badge" alt="shrey_v9" /></a> </p>
 
-- 🔭 I’m currently working on [Major Project 1](https://github.com/shreystudent24/Music-Player)
+- 🔭 I’m currently working on [Cloud Native Monitoring Application](https://github.com/shreystudent24/Deploy-Cloud-Native-Monitoring-Application)
 
 - 🌱 I’m currently learning **DevOps**
 
